@@ -1,8 +1,10 @@
 # Hi, I'm Will Chan
 
-I'm a product manager who builds. I explore ideas through working prototypes—from tools for product teams to experiments with AI, music and playful interfaces.
+I'm a product manager with a habit of turning “what if?” into something you can click, play with or occasionally break.
 
-This is a home for those experiments: some practical, some just worth trying.
+AI is both part of my product practice and a hobby I happily get carried away with. At work, I'm interested in how it can help us explore problems, test ideas and build more useful products. Outside work, the questions get a little stranger: what would a book sound like? Could a photo become a tiny pixel companion? What happens if I build 30 apps in 30 days?
+
+This GitHub is where those two sides meet. You'll find tools for product thinking alongside music experiments, games and playful prototypes—an ongoing exploration of what AI makes possible, and what's actually worth making.
 
 ## Selected projects
 
